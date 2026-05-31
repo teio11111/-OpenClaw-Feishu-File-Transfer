@@ -65,5 +65,15 @@ OpenClaw Skill 调用 Python 脚本
 
 通过这个 Skill，OpenClaw 可以把电脑本地文件发送到飞书，从而实现简单的跨平台文件传输自动化。
 
+## 演示截图
+
+### OpenClaw / 飞书机器人回复
+
+![OpenClaw Chat](screenshots/openclaw-chat.png)
+
+### 飞书手机端收到文件
+
+![Feishu Result](screenshots/feishu-result.png)
+
 
 
